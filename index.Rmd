@@ -18,7 +18,7 @@ You can add text
 
 This is a [link](https://google.com/) to be a good data science tool.
 
-Here's a link to the [about])(about.html)
+Here's a link to the [about](about.html)
 
 You can use R
 ```{r}
@@ -42,3 +42,5 @@ plot_df|>
 Also 
 #![](images/)
 
+# 
+definitely there is [plotly](plotly.html)
